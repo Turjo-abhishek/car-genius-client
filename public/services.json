@@ -1,0 +1,44 @@
+[
+    {
+        "service_id": "01",
+        "title": "Wedding Shoot",
+        "img": "https://i.ibb.co/68mNp0r/Wedding.jpg",
+        "price": "45,000",
+        "description": "Wedding shoot covers the most of the functions related to a marriage. That includes haldi night, marriage function, reception and other rituals. If the client wants, he/she can take the default photography package or the package can be customized according to the customer demands. But in that case, the package amount will differ according to the modification. The main events will be covered with best cameras with another assistant photographer. At least 400 photos of client's choice will be edited in this package. However, if client wants to take all photos edited then the price may vary."
+    },
+    {
+        "service_id": "02",
+        "title": "Post Wedding Shoot",
+        "img": "https://i.ibb.co/6HGYgqJ/post-wedding.jpg",
+        "price": "10,000",
+        "description": "Post wedding shoot has become an integral part of the wedding. Taking newly married couple photos in near to nature is an amazing thing to do. So this package is for those couples who want to do post wedding photography. The package includes multiple drone shots and the number of photos in this package is unlimited. The client has full flexibility in this package. There will be two assistant photographers and the best and latest camera configuration will be used. "
+    },
+    {
+        "service_id": "03",
+        "title": "Cinematography",
+        "img": "https://i.ibb.co/MM1kcZX/cinematography.jpg",
+        "price": "30,000",
+        "description": "Trailers before wedding or during wedding or after wedding is now a trend. Most of the classy people wishes to make trailers of their important events. So to make this wish real, this package is offered. I have state of the art drone and camera equipments which will be used to make trailers of that particular event. Cinematography which is a very hard nut to crack should be done by only experienced professionals and I have more than 3 years experience in this field. Some assistant photographers will join the shoot for helping hand and behind the scenes photos will be captured and will be provided to the client."
+    },
+    {
+        "service_id": "04",
+        "title": "Portrait Photography",
+        "img": "https://i.ibb.co/nQbykWK/portrait.jpg",
+        "price": "5,000-8,000",
+        "description": "People now a days are conscious about their exposure in virtual mediums or social medias. If you want to capture portrait photos for that purpose, this package is for you. The package is available for all age group and has a lot of flexibility. Total of 1000 photos will be captured and more than one individual can join this shoot. Fashion conscious students who want to take photos but has limited budget can take this package and share the amount between two or three people. The prime lens will be used primarily but if necessary other lenses will be used."
+    },
+    {
+        "service_id": "05",
+        "title": "TVC Shoot",
+        "img": "https://i.ibb.co/G9czCKT/Sakib-1.png",
+        "price": "100000",
+        "description": "Television commercials which is an extremely important job for most of the companies should be done only by professionals as the reputation of that company relates to it. I have more than 5 years experience with shooting TVC. The package is only for the lead photographer. If the setup has to be arranged than the price may vary according to the demands. Company owners who are looking forward to make a good TVC in a budget friendly way should look forward to this package."
+    },
+    {
+        "service_id": "06",
+        "title": "Custom Photography Package",
+        "img": "https://i.ibb.co/9VnBB35/Custom.jpg",
+        "price": "Negotiable",
+        "description": "The Custom package is for the people who wants to cover events other than the ones mentioned in the packages. The Business owners might want to cover a business event or a person might want to cover an marriage anniversary event or birthday event or it might be even a portrait shoot for models. So this package is flexible and available for all types of events. The client can customize the package according to his/her needs and the prices will be arranged based on this."
+    }
+]
